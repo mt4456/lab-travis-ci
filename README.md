@@ -2,7 +2,6 @@
 
 [![Build Status](https://app.travis-ci.com/mt4456/lab-travis-ci.svg?branch=master)](https://app.travis-ci.com/mt4456/lab-travis-ci)
 
-
 [![Codecov](https://img.shields.io/codecov/c/github/nyu-devops/lab-travis-ci.svg)]()
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
     
@@ -10,6 +9,7 @@ This is for NYU DevOps lab on using Travis CI with Redis for Continuous Integrat
 
 ## Introduction
 
+This is an testing msg.
 This lab contains a `.travis.yml` file that shows you how to run your tests and request that a Redis service be attached while running them. It also uses Code Coverage to determine how complete your testng is.
 
 ## Setup
